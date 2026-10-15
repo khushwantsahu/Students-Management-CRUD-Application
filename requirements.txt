@@ -1,0 +1,7 @@
+Fastapi
+uvicorn
+sqlalchemy
+pydantic-settings
+langchain
+langchain-community
+langchain-ollama
